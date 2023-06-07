@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Projeto2023Application<Projeto2023>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.edu.toledoprudente.Projeto2023Application",
+            "projectName": "Projeto2023",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
